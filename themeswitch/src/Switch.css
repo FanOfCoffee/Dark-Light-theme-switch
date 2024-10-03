@@ -13,6 +13,7 @@
     perspective: 500px;
     animation: toggle__animation 3s infinite;
 }
+
 .switch::before {
     content: "";
     position: absolute;
